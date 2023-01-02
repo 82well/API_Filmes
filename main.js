@@ -3,3 +3,18 @@ const imageUrl = "https://image.tmdb.org/t/p/w780";
 const apiKey = "5cd249d4f26bf03481d34df30898c03e";
 
 const movieList = document.querySelector("#movie-list");
+
+const cardTemplate = (imagePath, title, releaseDate, voteAverage) => {
+    const releaseDateFormatted = new Date(releaseDate).toLocaleDateString();
+
+    return `
+      <div class="card">
+        <img src="${imageUrl}${imagePath}" />
+        <div class="description">
+          <h2 class="title">${title}</h2>
+          <p class="release-date">Data: ${releaseDateFormatted}</p>
+          <p class="vote-average">Pontuação: ${voteAverage}</p>
+        </div>
+      </div>
+    `;
+};
