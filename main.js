@@ -18,3 +18,24 @@ const cardTemplate = (imagePath, title, releaseDate, voteAverage) => {
       </div>
     `;
 };
+
+const getPopularMovies = async() => {
+    const response = await fetch(
+        `${baseUrl}/movie/popular?api_key=${apiKey}&language=pt-BR&region=BR&page=1`
+    );
+
+    const data = await response.json();
+
+    data.results.forEach((item) => {
+        const template = cardTemplate(
+            item.poster_path,
+            item.title,
+            item.release_date,
+            item.vote_average
+        );
+
+        movieList.innerHTML += template;
+    });
+};
+
+getPopularMovies();
