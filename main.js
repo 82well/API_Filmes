@@ -12,8 +12,8 @@ const cardTemplate = (imagePath, title, releaseDate, voteAverage) => {
         <img src="${imageUrl}${imagePath}" />
         <div class="description">
           <h2 class="title">${title}</h2>
-          <p class="release-date">Data: ${releaseDateFormatted}</p>
           <p class="vote-average">Pontuação: ${voteAverage}</p>
+          <p class="release-date">Data: ${releaseDateFormatted}</p>
         </div>
       </div>
     `;
