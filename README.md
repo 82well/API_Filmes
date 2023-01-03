@@ -10,7 +10,7 @@
 ### Tópicos 
 
 - [Variaveis](#variaveis)
-- [Span](#span)
+- [Themoviedb](#themoviedb)
 - [Ion-icon](#ion-icon)
 - [Javascript](#javascript)
 - [Label](#label)
@@ -25,12 +25,11 @@
 <p align="center">Variável pode ser entendida como uma classificação ou uma medida; uma quantidade que se altera em cada caso ou unidade de estudo.</p>
 </p>
 
-## Span 
+## Themoviedb 
 
 <p align="justify">
 
-<p align="center"><b>Span</b>, é um conteiner generico em linha para conteúdo fraseado. Ele pode ser usado para agrupar elementos para fins de estilo (usando os atributos class ou id) deve ser usado somente quando nenhum outro elemento semântico for apropriado. <b>Span</b> é muito parecido com o elemento <b>div</b> , entretando <b>div</b> é um elemento de nível de bloco enquanto span é um elemento em linha.</p>
-</p>
+<p align="center">API do The Movie Database (TMDb) The Movie Database (conhecido como TMDb) é uma base de dados grátis e de código aberto sobre Filmes e Séries de TV. </p>
 
 ## Ion-icon
 
