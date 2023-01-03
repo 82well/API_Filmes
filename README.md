@@ -11,11 +11,7 @@
 
 - [Variaveis](#variaveis)
 - [Themoviedb](#themoviedb)
-- [Ion-icon](#ion-icon)
 - [Javascript](#javascript)
-- [Label](#label)
-
-
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 ## Variaveis 
@@ -31,11 +27,6 @@
 
 <p align="center">API do The Movie Database (TMDb) The Movie Database (conhecido como TMDb) é uma base de dados grátis e de código aberto sobre Filmes e Séries de TV. </p>
 
-## Ion-icon
-
-<p aling="justify">
-
-<p aling="center">Ionicons é um conjunto de ícones totalmente de código aberto com 1.300 ícones criados para aplicativos da Web, iOS, Android e desktop.</p>
 
 ## Javascript
 
