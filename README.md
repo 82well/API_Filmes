@@ -22,7 +22,7 @@
 
 <p align="justify">
 
-<p align="center">(http://www.nce.ufrj.br/ginape/cursohtml/conteudo/listas/ordenada.htm)</p>
+<p align="center">Variável pode ser entendida como uma classificação ou uma medida; uma quantidade que se altera em cada caso ou unidade de estudo.</p>
 </p>
 
 ## Span 
