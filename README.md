@@ -5,7 +5,7 @@
 <h2 align="center"> Cartão simples com HTML/CSS/Javascript</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Programador_em_Desenvolvimento-orange"></p>
+<img src="https://img.shields.io/badge/Status-Programador_em_Desenvolvimento-blue"></p>
 
 ### Tópicos 
 
