@@ -18,7 +18,7 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-## Variáveis 
+## Variaveis 
 
 <p align="justify">
 
