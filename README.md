@@ -9,7 +9,7 @@
 
 ### Tópicos 
 
-- [Lista](#lista)
+- [Variaveis](#variaveis)
 - [Span](#span)
 - [Ion-icon](#ion-icon)
 - [Javascript](#javascript)
@@ -18,11 +18,10 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-## Lista 
+## Variáveis 
 
 <p align="justify">
 
-[Diferenças entre a criação de Listas.]
 <p align="center">(http://www.nce.ufrj.br/ginape/cursohtml/conteudo/listas/ordenada.htm)</p>
 </p>
 
