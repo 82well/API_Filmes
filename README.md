@@ -40,12 +40,7 @@
 ## Javascript
 
 <p align="justify">
-Usando javascript para criar variaveis de alteração para a cor do body, criando assim o modo dark.
-
-## Label
-
-<p align="justify">
-<b>Label</b> representa uma legenda para um item em uma interface de usuário. Ele pode estar associado com um elemento de controle, colocando este dentro do elemento <b>label</b>.
+Usando javascript para criar variaveis de pesquisas, gerando templates e dados do site.
 
 
 ## Ferramentas utilizadas
